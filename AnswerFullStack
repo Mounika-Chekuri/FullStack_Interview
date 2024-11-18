@@ -1,0 +1,18 @@
+🔹 Technical Deep Dive:
+ • How to write a method to deep clone an object recursively?
+ • Explain the order of promises, setTimeout, and other asynchronous operations in JavaScript.
+ • Walkthrough of how HTML, CSS, and JavaScript execute in a browser—what causes page blocking, and how to manage it.
+
+🔹 React Concepts:
+ • Detailed discussion on React hooks like useEffect and useRef, their usage, and limitations.
+ • Why React hooks can’t run inside loops or conditions.
+ • Lifecycle methods vs. hooks in React.
+
+🔹 Optimization & Tooling:
+ • How to improve app performance, handle low-bandwidth connections, and implement code splitting & HTTP caching.
+ • Deep dive on Webpack: its version, inner workings, and the difference between loaders and plugins.
+ • Redux flow—actions, reducers, store, and its difference from Context API.
+
+🔹 Personal Reflections:
+ • Discuss a challenging project and the impact it had.
+ • The classic “Tell me about yourself.”
